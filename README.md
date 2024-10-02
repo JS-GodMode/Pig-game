@@ -30,6 +30,10 @@ Pig Game is a fun, interactive 2-player game built using pure JavaScript. The ob
 3.  Rolling a 1 ends your turn and resets your turn's score.
 4.  First player to reach 100 points wins!
 
+## Play
+
+You can play this game now on : https://js-godmode.github.io/Pig-game/
+
 ## Installation
 
 To play the Pig Game, simply clone the repository and open the `index.html` file in your browser.
